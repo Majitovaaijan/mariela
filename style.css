@@ -202,7 +202,62 @@ nav a{
     height: 1px;
     background-color: #D7B7D4;
     margin: 40px 90px 40px 90px;
+}
+.container4{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
+}
+.cont-3 {
+    margin-left: 93px;
+}
+
+.cont-3 h3{
+    font-family: Roboto, serif;
+    font-size: 14px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #B99BB6;
+}
+
+.cont-3 p{
+    width: 424px;
+    font-family: Cormorant Garamond, serif;
+    font-size: 24px;
+    color: #5F4D5D;
+}
+.container5{
+    box-sizing: border-box;
+    padding: 70px 111px 0 173px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container6{
+    display: flex;
+    justify-content: center;
+    padding-top: 91px;
+}
+.block{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.blocked{
+    margin-left: 26px;
+    margin-right: 26px;
+}
+.block-1{
+    font-family: Cormorant Garamond, serif;
+    font-size: 24px;
+    color: #5F4D5D;
+}
+.block-2{
+    font-family: Roboto, serif;
+    font-size: 16px;
+    color: #B0B0B0;
 }
 
 
