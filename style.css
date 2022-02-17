@@ -258,6 +258,59 @@ nav a{
     font-family: Roboto, serif;
     font-size: 16px;
     color: #B0B0B0;
+    margin-top: 0;
+}
+
+.container7{
+    display: flex;
+    justify-content: center;
+    padding-top: 54px;
+    padding-bottom: 75px;
+}
+
+.container8{
+    box-sizing: border-box;
+    width: 1340px;
+    height: 213px;
+    background-color: #D6BBD3;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.box-2{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.box-3{
+    font-family: Cormorant Garamond, serif;
+    font-size: 22px;
+    color: #FFFFFF;
+    margin: 0;
+}
+
+.box-4{
+    font-family: Roboto, serif;
+    font-size: 17px;
+    color: #FFFFFF;
+}
+footer{
+    box-sizing: border-box;
+    padding-left: 400px;
+    padding-right: 250px;
+    width: 1340px;
+    height: 137px;
+    background-color: #C9ADC6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+footer nav ul li a{
+    font-family: Cormorant Garamond, serif;
+    color: white;
+    font-size: 21px;
 }
 
 
